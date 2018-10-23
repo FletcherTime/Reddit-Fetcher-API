@@ -14,7 +14,7 @@ To run the Reddit Fetcher API locally, simply navigate to the directory in which
 
 ## Calling the API
 
-To use the API locally, it is recommended you download [Postman](https://www.getpostman.com/) or a similar API development environment. When running the API locally, the default port is 8080 if none is set manually.
+To use the API locally, it is recommended you download [Postman](https://www.getpostman.com/) or a similar API development environment. When running the API locally, the default port is 8080 if none is set manually. It can be called by sending requests to http://localhost:[PORT]/api/.
 
 The API can be accessed online at https://tranquil-mesa-89412.herokuapp.com. 
 
