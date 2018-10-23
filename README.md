@@ -35,13 +35,13 @@ If successful, JSON data returned will be an array of posts in the following for
 ```
 {
 	"subreddit": "news",
-    "title": "Judge Upholds Verdict That Found Monsanto’s Roundup Caused a Man’s Cancer",
-    "author": "davepilsner73",
-    "score": 27332,
-    "gilded": 0,
-    "created_utc": 1540298040,
-    "permalink": "/r/news/comments/9qoiw8/judge_upholds_verdict_that_found_monsantos/",
-    "over_18": false,
-    "num_comments": 1914
+	"title": "Judge Upholds Verdict That Found Monsanto’s Roundup Caused a Man’s Cancer",
+	"author": "davepilsner73",
+	"score": 27332,
+	"gilded": 0,
+	"created_utc": 1540298040,
+	"permalink": "/r/news/comments/9qoiw8/judge_upholds_verdict_that_found_monsantos/",
+	"over_18": false,
+	"num_comments": 1914
 }
 ```
